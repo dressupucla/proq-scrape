@@ -1,0 +1,4 @@
+*.zip
+*.csv
+corpora/*
+node_modules
